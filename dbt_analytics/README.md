@@ -24,8 +24,6 @@ The data pipeline and downstream analytical layers were engineered specifically 
 
 The pipeline is structured across a decoupled, modern data stack pattern:
 
-![Data Lineage Graph](lineage_graph.png)
-
 1. **Ingestion & Database Loading:** Raw JSON user activity records (`raw_activity_logs.json`) and subscription data are processed and loaded via Python/Pandas into a local SQLite data warehouse instance.
 2. **Data Cataloging (dbt Sources):** Raw tables are registered into `sources.yml` to decouple the underlying database architecture from transformation logic and build automated data lineage.
 3. **Dimensional Modeling (Marts):** Transformations are written in optimized SQL (`fct_streaming_summary.sql`) to aggregate granular streaming events into an enterprise-ready production mart.
