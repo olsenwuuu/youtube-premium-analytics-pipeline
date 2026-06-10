@@ -47,11 +47,7 @@ To ensure absolute pipeline reliability and protect downstream metrics, this pro
 
 ### 1. Database Setup
 Execute the ingestion notebooks to seed the SQLite warehouse:
+
 ```bash
-# Run database loading notebook to process raw JSON/CSV inputs
-# (Outputs: data/streaming_warehouse.db)
-<<<<<<< HEAD
+# Process raw JSON/CSV inputs to output data/streaming_warehouse.db
 jupyter nbconvert --to notebook --execute notebooks/02_database_loading.ipynb
-=======
-jupyter nbconvert --to notebook --execute notebooks/02_database_loading.ipynb
->>>>>>> 9b023b7 (fix: delete inner readme and link lineage graph to root master)
