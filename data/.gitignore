@@ -1,0 +1,15 @@
+# Exclude local dbt build directories
+dbt_analytics/target/
+dbt_analytics/dbt_packages/
+dbt_analytics/logs/
+
+# Exclude local SQLite database binaries
+*.db
+streaming_warehouse.db
+
+# Optional: Exclude python environment and scratchpads
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

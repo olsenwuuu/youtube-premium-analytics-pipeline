@@ -1,8 +1,8 @@
 {{ config(materialized='table') }}
 
 with base_data as (
-    -- Direct query to your clean database table
-    select * from stg_streaming_activity
+    -- Direct query to your clean database table using dbt sources
+    select * from {{ source('raw_youtube_data', 'stg_streaming_activity') }}
 ),
 
 aggregated_metrics as (

@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: raw_youtube_data
+    database: main
+    schema: main
+    tables:
+      - name: stg_streaming_activity

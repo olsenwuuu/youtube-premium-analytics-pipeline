@@ -1,0 +1,1001 @@
+user_id,signup_date,plan_type,payment_method,status,cancellation_date
+USR_0001,2025-01-01,Individual,Google Wallet,Canceled,2025-06-16
+USR_0002,2025-01-01,Student,PayPal,Canceled,2025-02-07
+USR_0003,2025-01-01,Family,Google Wallet,Active,
+USR_0004,2025-01-02,Individual,Google Wallet,Canceled,2025-03-08
+USR_0005,2025-01-02,Individual,Credit Card,Active,
+USR_0006,2025-01-03,Individual,Credit Card,Canceled,2025-02-04
+USR_0007,2025-01-03,Individual,Google Wallet,Active,
+USR_0008,2025-01-03,Family,Credit Card,Canceled,2025-04-12
+USR_0009,2025-01-04,Individual,PayPal,Canceled,2025-07-01
+USR_0010,2025-01-04,Family,PayPal,Canceled,2025-03-02
+USR_0011,2025-01-05,Individual,Credit Card,Canceled,2025-03-29
+USR_0012,2025-01-05,Student,PayPal,Active,
+USR_0013,2025-01-06,Family,Credit Card,Active,
+USR_0014,2025-01-06,Individual,Google Wallet,Active,
+USR_0015,2025-01-06,Individual,Google Wallet,Active,
+USR_0016,2025-01-07,Individual,PayPal,Active,
+USR_0017,2025-01-07,Individual,Credit Card,Active,
+USR_0018,2025-01-08,Individual,Credit Card,Canceled,2025-06-04
+USR_0019,2025-01-08,Individual,PayPal,Active,
+USR_0020,2025-01-09,Individual,Google Wallet,Canceled,2025-06-25
+USR_0021,2025-01-09,Individual,PayPal,Active,
+USR_0022,2025-01-09,Individual,Google Wallet,Canceled,2025-03-23
+USR_0023,2025-01-10,Individual,Credit Card,Canceled,2025-03-27
+USR_0024,2025-01-10,Individual,Google Wallet,Active,
+USR_0025,2025-01-11,Individual,PayPal,Active,
+USR_0026,2025-01-11,Family,Credit Card,Canceled,2025-03-27
+USR_0027,2025-01-12,Individual,PayPal,Active,
+USR_0028,2025-01-12,Individual,PayPal,Active,
+USR_0029,2025-01-12,Individual,Google Wallet,Active,
+USR_0030,2025-01-13,Individual,PayPal,Active,
+USR_0031,2025-01-13,Individual,Google Wallet,Active,
+USR_0032,2025-01-14,Individual,Credit Card,Active,
+USR_0033,2025-01-14,Individual,Google Wallet,Active,
+USR_0034,2025-01-15,Student,Credit Card,Active,
+USR_0035,2025-01-15,Student,Google Wallet,Canceled,2025-06-24
+USR_0036,2025-01-15,Family,PayPal,Active,
+USR_0037,2025-01-16,Individual,Google Wallet,Canceled,2025-05-27
+USR_0038,2025-01-16,Individual,Google Wallet,Active,
+USR_0039,2025-01-17,Individual,Credit Card,Active,
+USR_0040,2025-01-17,Individual,PayPal,Active,
+USR_0041,2025-01-17,Individual,Google Wallet,Active,
+USR_0042,2025-01-18,Individual,PayPal,Active,
+USR_0043,2025-01-18,Individual,Google Wallet,Active,
+USR_0044,2025-01-19,Student,Google Wallet,Active,
+USR_0045,2025-01-19,Individual,PayPal,Active,
+USR_0046,2025-01-20,Individual,Google Wallet,Active,
+USR_0047,2025-01-20,Individual,PayPal,Active,
+USR_0048,2025-01-20,Individual,Google Wallet,Active,
+USR_0049,2025-01-21,Individual,Credit Card,Canceled,2025-06-03
+USR_0050,2025-01-21,indivual_typo,PayPal,Active,
+USR_0051,2025-01-22,Student,Google Wallet,Active,
+USR_0052,2025-01-22,Family,Google Wallet,Canceled,2025-07-04
+USR_0053,2025-01-23,Student,Credit Card,Active,
+USR_0054,2025-01-23,Family,PayPal,Active,
+USR_0055,2025-01-23,Individual,Google Wallet,Canceled,2025-04-17
+USR_0056,2025-01-24,Student,Credit Card,Active,
+USR_0057,2025-01-24,Individual,Google Wallet,Active,
+USR_0058,2025-01-25,Individual,PayPal,Active,
+USR_0059,2025-01-25,Individual,Google Wallet,Active,
+USR_0060,2025-01-26,Individual,Google Wallet,Active,
+USR_0061,2025-01-26,Individual,Google Wallet,Active,
+USR_0062,2025-01-26,Individual,Google Wallet,Active,
+USR_0063,2025-01-27,Family,Credit Card,Active,
+USR_0064,2025-01-27,Individual,Credit Card,Canceled,2025-06-16
+USR_0065,2025-01-28,Individual,PayPal,Canceled,2025-04-18
+USR_0066,2025-01-28,Individual,Credit Card,Active,
+USR_0067,2025-01-29,Individual,Credit Card,Active,
+USR_0068,2025-01-29,Family,PayPal,Active,
+USR_0069,2025-01-29,Individual,Credit Card,Active,
+USR_0070,2025-01-30,Student,Credit Card,Active,
+USR_0071,2025-01-30,Family,PayPal,Active,
+USR_0072,2025-01-31,Individual,PayPal,Canceled,2025-06-07
+USR_0073,2025-01-31,Individual,PayPal,Active,
+USR_0074,2025-01-31,Family,Google Wallet,Active,
+USR_0075,2025-02-01,Family,Google Wallet,Active,
+USR_0076,2025-02-01,Family,PayPal,Active,
+USR_0077,2025-02-02,Family,PayPal,Canceled,2025-06-15
+USR_0078,2025-02-02,Individual,PayPal,Active,
+USR_0079,2025-02-03,Individual,Google Wallet,Canceled,2025-07-01
+USR_0080,2025-02-03,Individual,Google Wallet,Active,
+USR_0081,2025-02-03,Family,Credit Card,Active,
+USR_0082,2025-02-04,Individual,Credit Card,Active,
+USR_0083,2025-02-04,Individual,PayPal,Active,
+USR_0084,2025-02-05,indivual_typo,Google Wallet,Active,
+USR_0085,2025-02-05,Individual,Google Wallet,Canceled,2025-04-07
+USR_0086,2025-02-06,Individual,Google Wallet,Active,
+USR_0087,2025-02-06,Family,PayPal,Active,
+USR_0088,2025-02-06,Individual,Credit Card,Active,
+USR_0089,2025-02-07,Family,PayPal,Active,
+USR_0090,2025-02-07,Individual,Credit Card,Active,
+USR_0091,2025-02-08,Individual,Credit Card,Canceled,2025-06-23
+USR_0092,2025-02-08,Family,PayPal,Canceled,2025-04-04
+USR_0093,2025-02-09,Family,Credit Card,Canceled,2025-04-04
+USR_0094,2025-02-09,Individual,Credit Card,Active,
+USR_0095,2025-02-09,Family,Google Wallet,Active,
+USR_0096,2025-02-10,Individual,Credit Card,Active,
+USR_0097,2025-02-10,Individual,PayPal,Active,
+USR_0098,2025-02-11,Individual,PayPal,Canceled,2025-06-24
+USR_0099,2025-02-11,Individual,Credit Card,Active,
+USR_0100,2025-02-12,Individual,Google Wallet,Active,
+USR_0101,2025-02-12,Individual,Google Wallet,Active,
+USR_0102,2025-02-12,Individual,Credit Card,Active,
+USR_0103,2025-02-13,Individual,Credit Card,Active,
+USR_0104,2025-02-13,Individual,PayPal,Active,
+USR_0105,2025-02-14,Student,Credit Card,Active,
+USR_0106,2025-02-14,Individual,Google Wallet,Active,
+USR_0107,2025-02-14,Individual,Credit Card,Active,
+USR_0108,2025-02-15,Family,PayPal,Canceled,2025-07-08
+USR_0109,2025-02-15,Individual,PayPal,Canceled,2025-03-21
+USR_0110,2025-02-16,Individual,PayPal,Canceled,2025-06-09
+USR_0111,2025-02-16,Individual,PayPal,Canceled,2025-05-08
+USR_0112,2025-02-17,Individual,PayPal,Active,
+USR_0113,2025-02-17,Student,Credit Card,Active,
+USR_0114,2025-02-17,Family,Credit Card,Active,
+USR_0115,2025-02-18,Individual,Credit Card,Active,
+USR_0116,2025-02-18,Family,Credit Card,Canceled,2025-07-19
+USR_0117,2025-02-19,Family,PayPal,Active,
+USR_0118,2025-02-19,Individual,Google Wallet,Canceled,2025-05-05
+USR_0119,2025-02-20,Family,Credit Card,Active,
+USR_0120,2025-02-20,Individual,Google Wallet,Active,
+USR_0121,2025-02-20,Family,Credit Card,Active,
+USR_0122,2025-02-21,Family,Credit Card,Canceled,2025-06-16
+USR_0123,2025-02-21,Individual,Google Wallet,Active,
+USR_0124,2025-02-22,Individual,PayPal,Active,
+USR_0125,2025-02-22,Individual,Credit Card,Active,
+USR_0126,2025-02-23,Individual,Credit Card,Active,
+USR_0127,2025-02-23,Family,Credit Card,Active,
+USR_0128,2025-02-23,Family,Google Wallet,Active,
+USR_0129,2025-02-24,Individual,PayPal,Active,
+USR_0130,2025-02-24,Individual,Google Wallet,Active,
+USR_0131,2025-02-25,Individual,Google Wallet,Active,
+USR_0132,2025-02-25,Individual,PayPal,Active,
+USR_0133,2025-02-26,Individual,Google Wallet,Active,
+USR_0134,2025-02-26,Individual,PayPal,Active,
+USR_0135,2025-02-26,Student,Credit Card,Active,
+USR_0136,2025-02-27,Individual,PayPal,Active,
+USR_0137,2025-02-27,Individual,Credit Card,Canceled,2025-04-13
+USR_0138,2025-02-28,Family,Google Wallet,Active,
+USR_0139,2025-02-28,Individual,Google Wallet,Active,
+USR_0140,2025-02-28,Student,Credit Card,Active,
+USR_0141,2025-03-01,Student,Google Wallet,Active,
+USR_0142,2025-03-01,Individual,PayPal,Canceled,2025-06-28
+USR_0143,2025-03-02,Individual,Credit Card,Active,
+USR_0144,2025-03-02,Individual,Google Wallet,Active,
+USR_0145,2025-03-03,Individual,Credit Card,Active,
+USR_0146,2025-03-03,Individual,PayPal,Active,
+USR_0147,2025-03-03,Individual,PayPal,Active,
+USR_0148,2025-03-04,Individual,Google Wallet,Canceled,2025-04-21
+USR_0149,2025-03-04,Individual,PayPal,Active,
+USR_0150,2025-03-05,Individual,Credit Card,Active,
+USR_0151,2025-03-05,Student,PayPal,Active,
+USR_0152,2025-03-06,Individual,Credit Card,Canceled,2025-08-16
+USR_0153,2025-03-06,Individual,Credit Card,Active,
+USR_0154,2025-03-06,Individual,PayPal,Canceled,2025-07-21
+USR_0155,2025-03-07,Student,Google Wallet,Active,
+USR_0156,2025-03-07,Individual,PayPal,Active,
+USR_0157,2025-03-08,Individual,Credit Card,Active,
+USR_0158,2025-03-08,Family,Credit Card,Active,
+USR_0159,2025-03-09,Individual,PayPal,Active,
+USR_0160,2025-03-09,Family,Google Wallet,Canceled,2025-04-24
+USR_0161,2025-03-09,Individual,Google Wallet,Active,
+USR_0162,2025-03-10,Individual,Credit Card,Active,
+USR_0163,2025-03-10,Individual,Credit Card,Active,
+USR_0164,2025-03-11,Individual,Google Wallet,Canceled,2025-04-17
+USR_0165,2025-03-11,Individual,PayPal,Canceled,2025-08-28
+USR_0166,2025-03-12,Family,Credit Card,Active,
+USR_0167,2025-03-12,Individual,Credit Card,Canceled,2025-04-18
+USR_0168,2025-03-12,Individual,Google Wallet,Active,
+USR_0169,2025-03-13,Individual,PayPal,Active,
+USR_0170,2025-03-13,Individual,Google Wallet,Active,
+USR_0171,2025-03-14,Individual,PayPal,Canceled,2025-05-21
+USR_0172,2025-03-14,Individual,PayPal,Active,
+USR_0173,2025-03-15,Individual,PayPal,Active,
+USR_0174,2025-03-15,Individual,Credit Card,Active,
+USR_0175,2025-03-15,Individual,Google Wallet,Canceled,2025-07-08
+USR_0176,2025-03-16,Individual,Google Wallet,Active,
+USR_0177,2025-03-16,Individual,PayPal,Active,
+USR_0178,2025-03-17,Individual,Credit Card,Active,
+USR_0179,2025-03-17,Student,Credit Card,Active,
+USR_0180,2025-03-17,Individual,Google Wallet,Active,
+USR_0181,2025-03-18,Individual,Credit Card,Canceled,2025-05-22
+USR_0182,2025-03-18,Individual,Credit Card,Active,
+USR_0183,2025-03-19,Student,PayPal,Active,
+USR_0184,2025-03-19,Family,Credit Card,Active,
+USR_0185,2025-03-20,Individual,PayPal,Canceled,2025-06-12
+USR_0186,2025-03-20,Individual,Google Wallet,Active,
+USR_0187,2025-03-20,Family,Credit Card,Active,
+USR_0188,2025-03-21,Individual,Google Wallet,Canceled,2025-07-29
+USR_0189,2025-03-21,Individual,Google Wallet,Canceled,2025-08-18
+USR_0190,2025-03-22,Individual,Credit Card,Canceled,2025-07-22
+USR_0191,2025-03-22,Individual,Credit Card,Canceled,2025-08-06
+USR_0192,2025-03-23,Family,Google Wallet,Active,
+USR_0193,2025-03-23,Student,Credit Card,Canceled,2025-05-01
+USR_0194,2025-03-23,Individual,PayPal,Active,
+USR_0195,2025-03-24,Individual,PayPal,Canceled,2025-05-26
+USR_0196,2025-03-24,Individual,Credit Card,Active,
+USR_0197,2025-03-25,Family,Google Wallet,Canceled,2025-07-21
+USR_0198,2025-03-25,Family,Credit Card,Active,
+USR_0199,2025-03-26,Family,Credit Card,Active,
+USR_0200,2025-03-26,Family,Google Wallet,Active,
+USR_0201,2025-03-26,Individual,Google Wallet,Canceled,2025-09-19
+USR_0202,2025-03-27,Individual,PayPal,Canceled,2025-08-20
+USR_0203,2025-03-27,Individual,Google Wallet,Active,
+USR_0204,2025-03-28,Family,PayPal,Active,
+USR_0205,2025-03-28,Individual,Google Wallet,Active,
+USR_0206,2025-03-29,Individual,Credit Card,Active,
+USR_0207,2025-03-29,Individual,PayPal,Canceled,2025-07-27
+USR_0208,2025-03-29,Individual,PayPal,Active,
+USR_0209,2025-03-30,Individual,PayPal,Active,
+USR_0210,2025-03-30,Individual,Credit Card,Canceled,2025-05-16
+USR_0211,2025-03-31,Individual,Credit Card,Active,
+USR_0212,2025-03-31,Individual,Credit Card,Active,
+USR_0213,2025-03-31,Individual,Credit Card,Active,
+USR_0214,2025-04-01,Individual,Credit Card,Active,
+USR_0215,2025-04-01,Family,PayPal,Active,
+USR_0216,2025-04-02,Individual,Credit Card,Active,
+USR_0217,2025-04-02,Individual,PayPal,Active,
+USR_0218,2025-04-03,Family,Credit Card,Canceled,2025-06-29
+USR_0219,2025-04-03,Individual,Google Wallet,Active,
+USR_0220,2025-04-03,Family,PayPal,Canceled,2025-09-27
+USR_0221,2025-04-04,Individual,Google Wallet,Active,
+USR_0222,2025-04-04,Individual,PayPal,Active,
+USR_0223,2025-04-05,Individual,Google Wallet,Active,
+USR_0224,2025-04-05,Individual,Credit Card,Active,
+USR_0225,2025-04-06,Individual,Credit Card,Active,
+USR_0226,2025-04-06,Individual,Credit Card,Canceled,2025-08-18
+USR_0227,2025-04-06,Student,PayPal,Active,
+USR_0228,2025-04-07,Individual,Google Wallet,Active,
+USR_0229,2025-04-07,Family,Credit Card,Canceled,2025-09-28
+USR_0230,2025-04-08,Individual,Google Wallet,Active,
+USR_0231,2025-04-08,Family,Google Wallet,Active,
+USR_0232,2025-04-09,Individual,Credit Card,Active,
+USR_0233,2025-04-09,Individual,Credit Card,Active,
+USR_0234,2025-04-09,Individual,Google Wallet,Active,
+USR_0235,2025-04-10,Individual,Credit Card,Active,
+USR_0236,2025-04-10,Family,Credit Card,Canceled,2025-08-16
+USR_0237,2025-04-11,Individual,Credit Card,Active,
+USR_0238,2025-04-11,Individual,PayPal,Active,
+USR_0239,2025-04-12,Individual,Google Wallet,Canceled,2025-09-03
+USR_0240,2025-04-12,Individual,Google Wallet,Active,
+USR_0241,2025-04-12,Student,PayPal,Active,
+USR_0242,2025-04-13,Student,Google Wallet,Active,
+USR_0243,2025-04-13,Student,Credit Card,Canceled,2025-07-22
+USR_0244,2025-04-14,Individual,Google Wallet,Active,
+USR_0245,2025-04-14,Individual,Credit Card,Active,
+USR_0246,2025-04-14,Student,PayPal,Active,
+USR_0247,2025-04-15,Individual,Credit Card,Active,
+USR_0248,2025-04-15,Student,Google Wallet,Canceled,2025-06-06
+USR_0249,2025-04-16,Student,Google Wallet,Canceled,2025-08-29
+USR_0250,2025-04-16,Family,Google Wallet,Active,
+USR_0251,2025-04-17,Individual,PayPal,Active,
+USR_0252,2025-04-17,Individual,PayPal,Active,
+USR_0253,2025-04-17,Family,Google Wallet,Canceled,2025-09-02
+USR_0254,2025-04-18,Individual,Credit Card,Active,
+USR_0255,2025-04-18,Individual,PayPal,Active,
+USR_0256,2025-04-19,Individual,Google Wallet,Active,
+USR_0257,2025-04-19,Student,Google Wallet,Active,
+USR_0258,2025-04-20,Individual,PayPal,Active,
+USR_0259,2025-04-20,Individual,PayPal,Active,
+USR_0260,2025-04-20,Individual,PayPal,Active,
+USR_0261,2025-04-21,Individual,Credit Card,Canceled,2025-07-27
+USR_0262,2025-04-21,Student,Credit Card,Active,
+USR_0263,2025-04-22,Individual,Google Wallet,Active,
+USR_0264,2025-04-22,Individual,PayPal,Active,
+USR_0265,2025-04-23,Family,Credit Card,Active,
+USR_0266,2025-04-23,Family,PayPal,Active,
+USR_0267,2025-04-23,Individual,Google Wallet,Active,
+USR_0268,2025-04-24,Family,Credit Card,Active,
+USR_0269,2025-04-24,Individual,Credit Card,Active,
+USR_0270,2025-04-25,Individual,Credit Card,Active,
+USR_0271,2025-04-25,Family,Google Wallet,Active,
+USR_0272,2025-04-26,Family,PayPal,Canceled,2025-07-31
+USR_0273,2025-04-26,Family,Credit Card,Active,
+USR_0274,2025-04-26,Student,Google Wallet,Canceled,2025-09-18
+USR_0275,2025-04-27,Individual,PayPal,Active,
+USR_0276,2025-04-27,indivual_typo,Google Wallet,Active,
+USR_0277,2025-04-28,Family,PayPal,Active,
+USR_0278,2025-04-28,Individual,Google Wallet,Active,
+USR_0279,2025-04-28,Family,PayPal,Canceled,2025-07-28
+USR_0280,2025-04-29,Family,Credit Card,Active,
+USR_0281,2025-04-29,Family,PayPal,Canceled,2025-07-21
+USR_0282,2025-04-30,Individual,Google Wallet,Active,
+USR_0283,2025-04-30,Individual,Google Wallet,Active,
+USR_0284,2025-05-01,Individual,PayPal,Active,
+USR_0285,2025-05-01,Individual,Credit Card,Active,
+USR_0286,2025-05-01,Individual,Credit Card,Active,
+USR_0287,2025-05-02,Individual,PayPal,Active,
+USR_0288,2025-05-02,Individual,PayPal,Active,
+USR_0289,2025-05-03,Individual,Google Wallet,Active,
+USR_0290,2025-05-03,Individual,Credit Card,Active,
+USR_0291,2025-05-04,Individual,PayPal,Canceled,2025-10-08
+USR_0292,2025-05-04,Individual,Credit Card,Canceled,2025-08-27
+USR_0293,2025-05-04,Family,PayPal,Active,
+USR_0294,2025-05-05,Individual,PayPal,Active,
+USR_0295,2025-05-05,Individual,Credit Card,Active,
+USR_0296,2025-05-06,Individual,PayPal,Canceled,2025-10-23
+USR_0297,2025-05-06,Family,PayPal,Active,
+USR_0298,2025-05-07,Individual,Google Wallet,Active,
+USR_0299,2025-05-07,Individual,PayPal,Canceled,2025-07-25
+USR_0300,2025-05-07,Individual,PayPal,Active,
+USR_0301,2025-05-08,Individual,PayPal,Active,
+USR_0302,2025-05-08,Individual,Google Wallet,Active,
+USR_0303,2025-05-09,Individual,Credit Card,Active,
+USR_0304,2025-05-09,Individual,Google Wallet,Active,
+USR_0305,2025-05-10,Family,Google Wallet,Active,
+USR_0306,2025-05-10,Student,Credit Card,Active,
+USR_0307,2025-05-10,Individual,Google Wallet,Active,
+USR_0308,2025-05-11,Individual,Credit Card,Canceled,2025-07-18
+USR_0309,2025-05-11,Family,Google Wallet,Active,
+USR_0310,2025-05-12,Individual,Credit Card,Active,
+USR_0311,2025-05-12,Individual,PayPal,Active,
+USR_0312,2025-05-12,Individual,Google Wallet,Canceled,2025-11-06
+USR_0313,2025-05-13,Individual,Google Wallet,Active,
+USR_0314,2025-05-13,Student,Google Wallet,Active,
+USR_0315,2025-05-14,Family,Google Wallet,Canceled,2025-07-13
+USR_0316,2025-05-14,Individual,PayPal,Canceled,2025-07-14
+USR_0317,2025-05-15,Individual,Google Wallet,Active,
+USR_0318,2025-05-15,Individual,PayPal,Canceled,2025-10-30
+USR_0319,2025-05-15,Individual,PayPal,Active,
+USR_0320,2025-05-16,Individual,PayPal,Active,
+USR_0321,2025-05-16,Individual,PayPal,Active,
+USR_0322,2025-05-17,Family,Credit Card,Active,
+USR_0323,2025-05-17,Individual,Credit Card,Active,
+USR_0324,2025-05-18,Individual,Google Wallet,Active,
+USR_0325,2025-05-18,Student,Credit Card,Active,
+USR_0326,2025-05-18,Family,Credit Card,Active,
+USR_0327,2025-05-19,Individual,Google Wallet,Canceled,2025-09-27
+USR_0328,2025-05-19,Individual,Google Wallet,Active,
+USR_0329,2025-05-20,Individual,Google Wallet,Active,
+USR_0330,2025-05-20,Individual,Credit Card,Active,
+USR_0331,2025-05-21,Individual,Credit Card,Canceled,2025-09-08
+USR_0332,2025-05-21,Family,Google Wallet,Active,
+USR_0333,2025-05-21,Individual,PayPal,Canceled,2025-09-15
+USR_0334,2025-05-22,Individual,Google Wallet,Active,
+USR_0335,2025-05-22,Individual,PayPal,Active,
+USR_0336,2025-05-23,Individual,PayPal,Active,
+USR_0337,2025-05-23,Family,Google Wallet,Active,
+USR_0338,2025-05-24,Family,Google Wallet,Active,
+USR_0339,2025-05-24,Individual,Google Wallet,Canceled,2025-10-22
+USR_0340,2025-05-24,Individual,Credit Card,Active,
+USR_0341,2025-05-25,Individual,PayPal,Active,
+USR_0342,2025-05-25,Individual,Credit Card,Canceled,2025-09-12
+USR_0343,2025-05-26,Individual,Credit Card,Active,
+USR_0344,2025-05-26,Individual,Google Wallet,Canceled,2025-11-12
+USR_0345,2025-05-27,Individual,Credit Card,Active,
+USR_0346,2025-05-27,Individual,Google Wallet,Active,
+USR_0347,2025-05-27,Individual,PayPal,Active,
+USR_0348,2025-05-28,Individual,Google Wallet,Active,
+USR_0349,2025-05-28,Individual,Credit Card,Canceled,2025-06-29
+USR_0350,2025-05-29,Individual,Credit Card,Active,
+USR_0351,2025-05-29,Individual,Google Wallet,Active,
+USR_0352,2025-05-29,Family,Google Wallet,Active,
+USR_0353,2025-05-30,Individual,Credit Card,Active,
+USR_0354,2025-05-30,Individual,PayPal,Canceled,2025-10-18
+USR_0355,2025-05-31,Individual,PayPal,Active,
+USR_0356,2025-05-31,Individual,Google Wallet,Active,
+USR_0357,2025-06-01,Individual,PayPal,Canceled,2025-09-19
+USR_0358,2025-06-01,indivual_typo,Credit Card,Active,
+USR_0359,2025-06-01,Student,Google Wallet,Canceled,2025-10-08
+USR_0360,2025-06-02,Individual,Credit Card,Active,
+USR_0361,2025-06-02,Individual,Credit Card,Active,
+USR_0362,2025-06-03,Individual,PayPal,Active,
+USR_0363,2025-06-03,Individual,Google Wallet,Active,
+USR_0364,2025-06-04,indivual_typo,Google Wallet,Canceled,2025-10-24
+USR_0365,2025-06-04,Student,PayPal,Active,
+USR_0366,2025-06-04,Individual,Credit Card,Active,
+USR_0367,2025-06-05,Student,Credit Card,Active,
+USR_0368,2025-06-05,Student,Credit Card,Active,
+USR_0369,2025-06-06,Individual,Credit Card,Active,
+USR_0370,2025-06-06,Individual,Google Wallet,Canceled,2025-08-07
+USR_0371,2025-06-07,Individual,Google Wallet,Active,
+USR_0372,2025-06-07,Individual,PayPal,Active,
+USR_0373,2025-06-07,Individual,PayPal,Active,
+USR_0374,2025-06-08,Individual,Google Wallet,Active,
+USR_0375,2025-06-08,Individual,Google Wallet,Active,
+USR_0376,2025-06-09,Individual,Credit Card,Active,
+USR_0377,2025-06-09,Family,Credit Card,Canceled,2025-09-29
+USR_0378,2025-06-10,Individual,PayPal,Active,
+USR_0379,2025-06-10,Family,Google Wallet,Active,
+USR_0380,2025-06-10,Individual,PayPal,Active,
+USR_0381,2025-06-11,Individual,Google Wallet,Canceled,2025-07-23
+USR_0382,2025-06-11,Individual,Credit Card,Active,
+USR_0383,2025-06-12,Individual,PayPal,Active,
+USR_0384,2025-06-12,Family,PayPal,Active,
+USR_0385,2025-06-12,Family,Google Wallet,Active,
+USR_0386,2025-06-13,Family,Credit Card,Active,
+USR_0387,2025-06-13,Individual,PayPal,Active,
+USR_0388,2025-06-14,Individual,Credit Card,Active,
+USR_0389,2025-06-14,Family,PayPal,Active,
+USR_0390,2025-06-15,Family,Credit Card,Canceled,2025-07-16
+USR_0391,2025-06-15,Student,Google Wallet,Canceled,2025-11-11
+USR_0392,2025-06-15,Individual,PayPal,Active,
+USR_0393,2025-06-16,Individual,PayPal,Active,
+USR_0394,2025-06-16,Family,Credit Card,Active,
+USR_0395,2025-06-17,Individual,Credit Card,Active,
+USR_0396,2025-06-17,Student,PayPal,Active,
+USR_0397,2025-06-18,Family,Google Wallet,Active,
+USR_0398,2025-06-18,Individual,Credit Card,Active,
+USR_0399,2025-06-18,Family,Credit Card,Canceled,2025-08-02
+USR_0400,2025-06-19,Family,Credit Card,Active,
+USR_0401,2025-06-19,Individual,PayPal,Active,
+USR_0402,2025-06-20,Student,PayPal,Canceled,2025-11-20
+USR_0403,2025-06-20,Individual,PayPal,Active,
+USR_0404,2025-06-21,Family,PayPal,Active,
+USR_0405,2025-06-21,Individual,Google Wallet,Active,
+USR_0406,2025-06-21,Family,Google Wallet,Active,
+USR_0407,2025-06-22,Individual,PayPal,Canceled,2025-10-04
+USR_0408,2025-06-22,Individual,Google Wallet,Active,
+USR_0409,2025-06-23,Student,Credit Card,Active,
+USR_0410,2025-06-23,Individual,Credit Card,Canceled,2025-12-09
+USR_0411,2025-06-24,Individual,Credit Card,Canceled,2025-12-15
+USR_0412,2025-06-24,Student,PayPal,Canceled,2025-12-04
+USR_0413,2025-06-24,Student,Credit Card,Active,
+USR_0414,2025-06-25,Individual,Google Wallet,Active,
+USR_0415,2025-06-25,Individual,PayPal,Canceled,2025-09-19
+USR_0416,2025-06-26,Individual,Google Wallet,Canceled,2025-10-11
+USR_0417,2025-06-26,Individual,Credit Card,Active,
+USR_0418,2025-06-26,Individual,Credit Card,Active,
+USR_0419,2025-06-27,Individual,Credit Card,Active,
+USR_0420,2025-06-27,Family,PayPal,Canceled,2025-09-23
+USR_0421,2025-06-28,Family,Google Wallet,Active,
+USR_0422,2025-06-28,Family,PayPal,Active,
+USR_0423,2025-06-29,Individual,PayPal,Active,
+USR_0424,2025-06-29,Individual,Credit Card,Active,
+USR_0425,2025-06-29,Individual,PayPal,Canceled,2025-08-16
+USR_0426,2025-06-30,Individual,PayPal,Active,
+USR_0427,2025-06-30,Individual,Credit Card,Canceled,2025-09-14
+USR_0428,2025-07-01,Family,PayPal,Canceled,2025-09-01
+USR_0429,2025-07-01,Individual,Credit Card,Active,
+USR_0430,2025-07-02,Individual,Credit Card,Active,
+USR_0431,2025-07-02,Individual,Credit Card,Active,
+USR_0432,2025-07-02,Family,Credit Card,Canceled,2025-10-18
+USR_0433,2025-07-03,Individual,PayPal,Active,
+USR_0434,2025-07-03,Individual,Credit Card,Active,
+USR_0435,2025-07-04,Individual,Credit Card,Canceled,2025-12-08
+USR_0436,2025-07-04,Family,PayPal,Active,
+USR_0437,2025-07-05,Individual,PayPal,Canceled,2025-12-29
+USR_0438,2025-07-05,Family,Google Wallet,Active,
+USR_0439,2025-07-05,Family,PayPal,Active,
+USR_0440,2025-07-06,Individual,PayPal,Active,
+USR_0441,2025-07-06,Individual,Google Wallet,Canceled,2025-10-06
+USR_0442,2025-07-07,Student,PayPal,Active,
+USR_0443,2025-07-07,Individual,PayPal,Canceled,2025-10-01
+USR_0444,2025-07-08,Individual,PayPal,Canceled,2025-12-20
+USR_0445,2025-07-08,Family,PayPal,Active,
+USR_0446,2025-07-08,Student,Google Wallet,Canceled,2025-08-23
+USR_0447,2025-07-09,Student,PayPal,Active,
+USR_0448,2025-07-09,Family,PayPal,Active,
+USR_0449,2025-07-10,Individual,Google Wallet,Active,
+USR_0450,2025-07-10,Individual,Credit Card,Canceled,2025-10-16
+USR_0451,2025-07-10,Family,Google Wallet,Active,
+USR_0452,2025-07-11,Individual,Credit Card,Active,
+USR_0453,2025-07-11,Individual,Google Wallet,Active,
+USR_0454,2025-07-12,Student,Google Wallet,Active,
+USR_0455,2025-07-12,Individual,PayPal,Active,
+USR_0456,2025-07-13,Individual,Credit Card,Canceled,2025-11-17
+USR_0457,2025-07-13,Individual,PayPal,Canceled,2025-11-08
+USR_0458,2025-07-13,Individual,Credit Card,Active,
+USR_0459,2025-07-14,Individual,Google Wallet,Canceled,2025-08-14
+USR_0460,2025-07-14,Individual,Google Wallet,Active,
+USR_0461,2025-07-15,Individual,Credit Card,Canceled,2025-09-06
+USR_0462,2025-07-15,Individual,PayPal,Active,
+USR_0463,2025-07-16,Family,PayPal,Active,
+USR_0464,2025-07-16,Individual,PayPal,Active,
+USR_0465,2025-07-16,Student,PayPal,Canceled,2025-09-03
+USR_0466,2025-07-17,Individual,Google Wallet,Active,
+USR_0467,2025-07-17,Individual,Google Wallet,Active,
+USR_0468,2025-07-18,Family,Google Wallet,Active,
+USR_0469,2025-07-18,Individual,Google Wallet,Active,
+USR_0470,2025-07-19,Student,Google Wallet,Active,
+USR_0471,2025-07-19,Individual,PayPal,Active,
+USR_0472,2025-07-19,Student,PayPal,Canceled,2025-10-22
+USR_0473,2025-07-20,Individual,PayPal,Active,
+USR_0474,2025-07-20,Family,PayPal,Active,
+USR_0475,2025-07-21,Individual,Google Wallet,Active,
+USR_0476,2025-07-21,Student,Google Wallet,Canceled,2025-10-25
+USR_0477,2025-07-22,Individual,Google Wallet,Canceled,2026-01-01
+USR_0478,2025-07-22,Individual,Credit Card,Active,
+USR_0479,2025-07-22,Student,PayPal,Active,
+USR_0480,2025-07-23,Individual,PayPal,Active,
+USR_0481,2025-07-23,Individual,Google Wallet,Active,
+USR_0482,2025-07-24,Individual,PayPal,Canceled,2025-10-09
+USR_0483,2025-07-24,Individual,PayPal,Active,
+USR_0484,2025-07-24,Individual,Google Wallet,Active,
+USR_0485,2025-07-25,indivual_typo,Credit Card,Active,
+USR_0486,2025-07-25,Student,Credit Card,Canceled,2025-08-25
+USR_0487,2025-07-26,Individual,Credit Card,Active,
+USR_0488,2025-07-26,Individual,Google Wallet,Active,
+USR_0489,2025-07-27,Student,PayPal,Active,
+USR_0490,2025-07-27,Family,Google Wallet,Canceled,2025-10-17
+USR_0491,2025-07-27,Individual,Google Wallet,Active,
+USR_0492,2025-07-28,Individual,PayPal,Active,
+USR_0493,2025-07-28,Individual,Credit Card,Active,
+USR_0494,2025-07-29,Individual,Credit Card,Active,
+USR_0495,2025-07-29,Individual,Google Wallet,Active,
+USR_0496,2025-07-30,Individual,Credit Card,Active,
+USR_0497,2025-07-30,Individual,Google Wallet,Active,
+USR_0498,2025-07-30,Individual,Google Wallet,Active,
+USR_0499,2025-07-31,Student,PayPal,Active,
+USR_0500,2025-07-31,Student,PayPal,Canceled,2025-09-23
+USR_0501,2025-08-01,Individual,PayPal,Active,
+USR_0502,2025-08-01,Individual,Google Wallet,Canceled,2025-12-21
+USR_0503,2025-08-02,Individual,PayPal,Active,
+USR_0504,2025-08-02,Family,Credit Card,Active,
+USR_0505,2025-08-02,Individual,Credit Card,Active,
+USR_0506,2025-08-03,Individual,Google Wallet,Active,
+USR_0507,2025-08-03,Student,Google Wallet,Active,
+USR_0508,2025-08-04,Family,PayPal,Active,
+USR_0509,2025-08-04,Student,Google Wallet,Active,
+USR_0510,2025-08-05,Family,Google Wallet,Canceled,2026-01-19
+USR_0511,2025-08-05,Individual,Credit Card,Active,
+USR_0512,2025-08-05,Individual,Credit Card,Canceled,2025-10-19
+USR_0513,2025-08-06,Student,PayPal,Active,
+USR_0514,2025-08-06,Family,Google Wallet,Active,
+USR_0515,2025-08-07,Individual,Google Wallet,Active,
+USR_0516,2025-08-07,Individual,Credit Card,Active,
+USR_0517,2025-08-08,Individual,Google Wallet,Active,
+USR_0518,2025-08-08,Family,Credit Card,Active,
+USR_0519,2025-08-08,Student,PayPal,Active,
+USR_0520,2025-08-09,Individual,Credit Card,Active,
+USR_0521,2025-08-09,Individual,Google Wallet,Active,
+USR_0522,2025-08-10,Individual,PayPal,Canceled,2026-01-13
+USR_0523,2025-08-10,Student,Credit Card,Canceled,2025-12-28
+USR_0524,2025-08-10,Family,Credit Card,Canceled,2025-09-23
+USR_0525,2025-08-11,Family,PayPal,Canceled,2026-01-19
+USR_0526,2025-08-11,Individual,PayPal,Active,
+USR_0527,2025-08-12,Individual,Credit Card,Active,
+USR_0528,2025-08-12,Individual,Google Wallet,Canceled,2025-11-22
+USR_0529,2025-08-13,Individual,Credit Card,Active,
+USR_0530,2025-08-13,Family,PayPal,Active,
+USR_0531,2025-08-13,Family,Credit Card,Active,
+USR_0532,2025-08-14,Student,PayPal,Active,
+USR_0533,2025-08-14,Student,PayPal,Active,
+USR_0534,2025-08-15,Individual,Google Wallet,Canceled,2025-10-24
+USR_0535,2025-08-15,Family,PayPal,Active,
+USR_0536,2025-08-16,Student,PayPal,Active,
+USR_0537,2025-08-16,Family,Google Wallet,Canceled,2026-01-03
+USR_0538,2025-08-16,Individual,PayPal,Active,
+USR_0539,2025-08-17,Individual,Google Wallet,Active,
+USR_0540,2025-08-17,Individual,Google Wallet,Active,
+USR_0541,2025-08-18,Student,PayPal,Active,
+USR_0542,2025-08-18,Individual,PayPal,Canceled,2025-10-29
+USR_0543,2025-08-19,Individual,Credit Card,Active,
+USR_0544,2025-08-19,Individual,Google Wallet,Canceled,2025-10-27
+USR_0545,2025-08-19,Individual,Credit Card,Active,
+USR_0546,2025-08-20,Individual,PayPal,Canceled,2025-11-19
+USR_0547,2025-08-20,Individual,Credit Card,Canceled,2025-11-15
+USR_0548,2025-08-21,Individual,Google Wallet,Canceled,2025-12-03
+USR_0549,2025-08-21,Individual,Credit Card,Active,
+USR_0550,2025-08-22,Family,Google Wallet,Canceled,2025-12-11
+USR_0551,2025-08-22,Individual,PayPal,Active,
+USR_0552,2025-08-22,Family,PayPal,Active,
+USR_0553,2025-08-23,Individual,Google Wallet,Canceled,2026-02-06
+USR_0554,2025-08-23,Individual,PayPal,Active,
+USR_0555,2025-08-24,Family,PayPal,Canceled,2025-10-30
+USR_0556,2025-08-24,Individual,PayPal,Active,
+USR_0557,2025-08-24,Individual,PayPal,Active,
+USR_0558,2025-08-25,Individual,Google Wallet,Active,
+USR_0559,2025-08-25,Family,Credit Card,Active,
+USR_0560,2025-08-26,Individual,Credit Card,Active,
+USR_0561,2025-08-26,Family,PayPal,Active,
+USR_0562,2025-08-27,Individual,Credit Card,Active,
+USR_0563,2025-08-27,Individual,Credit Card,Active,
+USR_0564,2025-08-27,indivual_typo,PayPal,Active,
+USR_0565,2025-08-28,Individual,PayPal,Active,
+USR_0566,2025-08-28,Individual,Credit Card,Active,
+USR_0567,2025-08-29,Individual,Google Wallet,Active,
+USR_0568,2025-08-29,Individual,PayPal,Active,
+USR_0569,2025-08-30,Student,Google Wallet,Canceled,2025-12-26
+USR_0570,2025-08-30,indivual_typo,Credit Card,Canceled,2025-11-06
+USR_0571,2025-08-30,Individual,PayPal,Active,
+USR_0572,2025-08-31,Family,Google Wallet,Active,
+USR_0573,2025-08-31,Individual,PayPal,Canceled,2026-01-04
+USR_0574,2025-09-01,Individual,Credit Card,Active,
+USR_0575,2025-09-01,Family,Google Wallet,Active,
+USR_0576,2025-09-02,Student,Credit Card,Active,
+USR_0577,2025-09-02,Individual,Credit Card,Canceled,2025-11-26
+USR_0578,2025-09-02,Student,PayPal,Active,
+USR_0579,2025-09-03,Individual,Google Wallet,Active,
+USR_0580,2025-09-03,Individual,Credit Card,Canceled,2025-11-29
+USR_0581,2025-09-04,Individual,Credit Card,Canceled,2026-01-18
+USR_0582,2025-09-04,Student,Google Wallet,Active,
+USR_0583,2025-09-05,Individual,Credit Card,Active,
+USR_0584,2025-09-05,Individual,Credit Card,Canceled,2026-01-19
+USR_0585,2025-09-05,Individual,Google Wallet,Active,
+USR_0586,2025-09-06,Individual,Google Wallet,Active,
+USR_0587,2025-09-06,Individual,Google Wallet,Active,
+USR_0588,2025-09-07,Individual,Google Wallet,Canceled,2025-10-24
+USR_0589,2025-09-07,Individual,PayPal,Active,
+USR_0590,2025-09-07,Individual,Google Wallet,Canceled,2025-12-08
+USR_0591,2025-09-08,Individual,PayPal,Canceled,2026-03-06
+USR_0592,2025-09-08,Individual,PayPal,Active,
+USR_0593,2025-09-09,Individual,PayPal,Active,
+USR_0594,2025-09-09,Individual,Credit Card,Active,
+USR_0595,2025-09-10,Family,PayPal,Active,
+USR_0596,2025-09-10,Individual,PayPal,Active,
+USR_0597,2025-09-10,Individual,Credit Card,Canceled,2025-12-02
+USR_0598,2025-09-11,Individual,Credit Card,Active,
+USR_0599,2025-09-11,Individual,Credit Card,Canceled,2025-12-17
+USR_0600,2025-09-12,Individual,Google Wallet,Active,
+USR_0601,2025-09-12,Individual,Credit Card,Active,
+USR_0602,2025-09-13,Individual,Credit Card,Active,
+USR_0603,2025-09-13,Individual,PayPal,Active,
+USR_0604,2025-09-13,Individual,Credit Card,Active,
+USR_0605,2025-09-14,Individual,Google Wallet,Active,
+USR_0606,2025-09-14,Individual,Credit Card,Active,
+USR_0607,2025-09-15,Individual,Google Wallet,Active,
+USR_0608,2025-09-15,Individual,Credit Card,Active,
+USR_0609,2025-09-16,Individual,Credit Card,Active,
+USR_0610,2025-09-16,Individual,Credit Card,Active,
+USR_0611,2025-09-16,Individual,Credit Card,Canceled,2026-02-01
+USR_0612,2025-09-17,Family,Google Wallet,Active,
+USR_0613,2025-09-17,Individual,Google Wallet,Active,
+USR_0614,2025-09-18,Individual,PayPal,Active,
+USR_0615,2025-09-18,Family,Google Wallet,Active,
+USR_0616,2025-09-19,Student,Credit Card,Active,
+USR_0617,2025-09-19,Individual,PayPal,Active,
+USR_0618,2025-09-19,Individual,PayPal,Active,
+USR_0619,2025-09-20,Family,PayPal,Active,
+USR_0620,2025-09-20,Family,Credit Card,Active,
+USR_0621,2025-09-21,Individual,Google Wallet,Active,
+USR_0622,2025-09-21,Individual,Credit Card,Active,
+USR_0623,2025-09-21,Individual,PayPal,Canceled,2025-12-20
+USR_0624,2025-09-22,Individual,Credit Card,Active,
+USR_0625,2025-09-22,Individual,Credit Card,Active,
+USR_0626,2025-09-23,Individual,Google Wallet,Active,
+USR_0627,2025-09-23,Individual,Google Wallet,Active,
+USR_0628,2025-09-24,Family,PayPal,Active,
+USR_0629,2025-09-24,Individual,Credit Card,Active,
+USR_0630,2025-09-24,Individual,Credit Card,Active,
+USR_0631,2025-09-25,Family,Google Wallet,Active,
+USR_0632,2025-09-25,Family,Credit Card,Active,
+USR_0633,2025-09-26,Individual,Credit Card,Active,
+USR_0634,2025-09-26,Individual,Credit Card,Active,
+USR_0635,2025-09-27,Individual,Google Wallet,Active,
+USR_0636,2025-09-27,Individual,PayPal,Active,
+USR_0637,2025-09-27,Individual,PayPal,Canceled,2025-12-23
+USR_0638,2025-09-28,Individual,Credit Card,Active,
+USR_0639,2025-09-28,Individual,PayPal,Active,
+USR_0640,2025-09-29,Individual,Google Wallet,Active,
+USR_0641,2025-09-29,Individual,Google Wallet,Canceled,2026-02-18
+USR_0642,2025-09-30,Individual,PayPal,Active,
+USR_0643,2025-09-30,Individual,PayPal,Active,
+USR_0644,2025-09-30,Individual,Credit Card,Active,
+USR_0645,2025-10-01,Individual,PayPal,Active,
+USR_0646,2025-10-01,Family,Credit Card,Active,
+USR_0647,2025-10-02,Individual,Credit Card,Active,
+USR_0648,2025-10-02,Individual,Google Wallet,Canceled,2026-03-30
+USR_0649,2025-10-03,Family,Google Wallet,Active,
+USR_0650,2025-10-03,Individual,Google Wallet,Active,
+USR_0651,2025-10-03,Individual,Google Wallet,Canceled,2026-01-27
+USR_0652,2025-10-04,Individual,PayPal,Active,
+USR_0653,2025-10-04,Individual,Google Wallet,Active,
+USR_0654,2025-10-05,Family,PayPal,Active,
+USR_0655,2025-10-05,Individual,Google Wallet,Active,
+USR_0656,2025-10-05,Individual,PayPal,Active,
+USR_0657,2025-10-06,Individual,Credit Card,Canceled,2026-03-25
+USR_0658,2025-10-06,Individual,PayPal,Active,
+USR_0659,2025-10-07,Individual,PayPal,Active,
+USR_0660,2025-10-07,Individual,Google Wallet,Active,
+USR_0661,2025-10-08,Individual,PayPal,Canceled,2025-12-21
+USR_0662,2025-10-08,Student,Credit Card,Canceled,2026-03-31
+USR_0663,2025-10-08,Individual,Credit Card,Canceled,2026-02-18
+USR_0664,2025-10-09,Individual,Google Wallet,Active,
+USR_0665,2025-10-09,Individual,Credit Card,Active,
+USR_0666,2025-10-10,Individual,PayPal,Active,
+USR_0667,2025-10-10,Individual,Credit Card,Active,
+USR_0668,2025-10-11,Individual,Google Wallet,Active,
+USR_0669,2025-10-11,Individual,PayPal,Active,
+USR_0670,2025-10-11,Individual,Google Wallet,Active,
+USR_0671,2025-10-12,Individual,PayPal,Active,
+USR_0672,2025-10-12,Family,Credit Card,Active,
+USR_0673,2025-10-13,Individual,Google Wallet,Active,
+USR_0674,2025-10-13,Individual,Google Wallet,Active,
+USR_0675,2025-10-14,Individual,PayPal,Active,
+USR_0676,2025-10-14,Student,Google Wallet,Active,
+USR_0677,2025-10-14,Individual,PayPal,Canceled,2025-12-29
+USR_0678,2025-10-15,Individual,PayPal,Active,
+USR_0679,2025-10-15,Student,PayPal,Active,
+USR_0680,2025-10-16,Family,PayPal,Active,
+USR_0681,2025-10-16,Family,Credit Card,Canceled,2026-04-06
+USR_0682,2025-10-17,Individual,PayPal,Active,
+USR_0683,2025-10-17,Individual,Google Wallet,Active,
+USR_0684,2025-10-17,Individual,Credit Card,Active,
+USR_0685,2025-10-18,Student,Google Wallet,Active,
+USR_0686,2025-10-18,Individual,Credit Card,Active,
+USR_0687,2025-10-19,Individual,PayPal,Active,
+USR_0688,2025-10-19,Individual,Credit Card,Canceled,2026-01-30
+USR_0689,2025-10-20,Family,Credit Card,Active,
+USR_0690,2025-10-20,Individual,Google Wallet,Canceled,2026-04-08
+USR_0691,2025-10-20,Individual,Google Wallet,Active,
+USR_0692,2025-10-21,Individual,PayPal,Active,
+USR_0693,2025-10-21,Individual,Credit Card,Canceled,2026-01-06
+USR_0694,2025-10-22,Individual,Credit Card,Active,
+USR_0695,2025-10-22,Individual,Credit Card,Active,
+USR_0696,2025-10-22,Individual,PayPal,Active,
+USR_0697,2025-10-23,Individual,PayPal,Active,
+USR_0698,2025-10-23,Individual,PayPal,Active,
+USR_0699,2025-10-24,Individual,PayPal,Active,
+USR_0700,2025-10-24,Individual,PayPal,Active,
+USR_0701,2025-10-25,Individual,Google Wallet,Active,
+USR_0702,2025-10-25,Individual,Credit Card,Active,
+USR_0703,2025-10-25,Individual,Credit Card,Active,
+USR_0704,2025-10-26,Individual,Credit Card,Active,
+USR_0705,2025-10-26,Individual,Credit Card,Active,
+USR_0706,2025-10-27,Student,Credit Card,Active,
+USR_0707,2025-10-27,Individual,Credit Card,Active,
+USR_0708,2025-10-28,Family,Credit Card,Canceled,2026-01-14
+USR_0709,2025-10-28,Individual,Credit Card,Active,
+USR_0710,2025-10-28,Individual,Google Wallet,Active,
+USR_0711,2025-10-29,Family,Credit Card,Active,
+USR_0712,2025-10-29,Individual,Google Wallet,Active,
+USR_0713,2025-10-30,Individual,PayPal,Active,
+USR_0714,2025-10-30,Individual,Credit Card,Canceled,2026-04-08
+USR_0715,2025-10-31,Individual,PayPal,Active,
+USR_0716,2025-10-31,Student,PayPal,Canceled,2026-03-26
+USR_0717,2025-10-31,Family,PayPal,Canceled,2025-12-25
+USR_0718,2025-11-01,Student,Google Wallet,Canceled,2026-04-03
+USR_0719,2025-11-01,Individual,PayPal,Canceled,2026-04-23
+USR_0720,2025-11-02,Family,PayPal,Active,
+USR_0721,2025-11-02,Student,PayPal,Active,
+USR_0722,2025-11-03,Individual,Credit Card,Active,
+USR_0723,2025-11-03,Individual,Credit Card,Active,
+USR_0724,2025-11-03,Family,Google Wallet,Active,
+USR_0725,2025-11-04,Individual,Google Wallet,Active,
+USR_0726,2025-11-04,Family,Credit Card,Active,
+USR_0727,2025-11-05,Individual,Google Wallet,Active,
+USR_0728,2025-11-05,indivual_typo,Credit Card,Active,
+USR_0729,2025-11-05,Individual,PayPal,Active,
+USR_0730,2025-11-06,Individual,PayPal,Active,
+USR_0731,2025-11-06,Individual,Google Wallet,Canceled,2026-02-26
+USR_0732,2025-11-07,Family,Credit Card,Active,
+USR_0733,2025-11-07,Individual,Credit Card,Active,
+USR_0734,2025-11-08,Individual,Google Wallet,Active,
+USR_0735,2025-11-08,Individual,Credit Card,Active,
+USR_0736,2025-11-08,Family,PayPal,Active,
+USR_0737,2025-11-09,Individual,Google Wallet,Active,
+USR_0738,2025-11-09,Family,Google Wallet,Active,
+USR_0739,2025-11-10,Individual,Credit Card,Active,
+USR_0740,2025-11-10,Individual,Google Wallet,Active,
+USR_0741,2025-11-11,Individual,Credit Card,Active,
+USR_0742,2025-11-11,Individual,Credit Card,Active,
+USR_0743,2025-11-11,Family,Credit Card,Active,
+USR_0744,2025-11-12,Individual,Credit Card,Active,
+USR_0745,2025-11-12,Individual,Credit Card,Canceled,2026-01-16
+USR_0746,2025-11-13,Family,Google Wallet,Active,
+USR_0747,2025-11-13,Individual,PayPal,Active,
+USR_0748,2025-11-14,Individual,PayPal,Active,
+USR_0749,2025-11-14,Student,Google Wallet,Active,
+USR_0750,2025-11-14,Individual,Google Wallet,Active,
+USR_0751,2025-11-15,Individual,PayPal,Active,
+USR_0752,2025-11-15,Student,PayPal,Canceled,2026-03-01
+USR_0753,2025-11-16,Individual,PayPal,Active,
+USR_0754,2025-11-16,Individual,PayPal,Active,
+USR_0755,2025-11-17,Individual,PayPal,Active,
+USR_0756,2025-11-17,Family,Credit Card,Active,
+USR_0757,2025-11-17,Individual,Google Wallet,Active,
+USR_0758,2025-11-18,Individual,Credit Card,Active,
+USR_0759,2025-11-18,Family,PayPal,Canceled,2025-12-20
+USR_0760,2025-11-19,Family,PayPal,Active,
+USR_0761,2025-11-19,Individual,PayPal,Active,
+USR_0762,2025-11-19,Individual,Credit Card,Canceled,2026-02-15
+USR_0763,2025-11-20,indivual_typo,Credit Card,Active,
+USR_0764,2025-11-20,Family,PayPal,Canceled,2026-04-30
+USR_0765,2025-11-21,Individual,Credit Card,Active,
+USR_0766,2025-11-21,Individual,Credit Card,Canceled,2026-04-15
+USR_0767,2025-11-22,Family,PayPal,Active,
+USR_0768,2025-11-22,Family,Credit Card,Canceled,2026-04-22
+USR_0769,2025-11-22,Individual,Google Wallet,Canceled,2026-04-07
+USR_0770,2025-11-23,Family,Google Wallet,Active,
+USR_0771,2025-11-23,Individual,Google Wallet,Canceled,2026-03-23
+USR_0772,2025-11-24,Family,Google Wallet,Active,
+USR_0773,2025-11-24,Individual,PayPal,Active,
+USR_0774,2025-11-25,Individual,PayPal,Active,
+USR_0775,2025-11-25,Family,PayPal,Active,
+USR_0776,2025-11-25,Individual,Google Wallet,Active,
+USR_0777,2025-11-26,Individual,Google Wallet,Active,
+USR_0778,2025-11-26,Family,Credit Card,Active,
+USR_0779,2025-11-27,Family,Credit Card,Canceled,2026-02-12
+USR_0780,2025-11-27,Individual,Google Wallet,Canceled,2026-05-11
+USR_0781,2025-11-28,Individual,Google Wallet,Active,
+USR_0782,2025-11-28,Individual,Google Wallet,Active,
+USR_0783,2025-11-28,indivual_typo,Google Wallet,Active,
+USR_0784,2025-11-29,Individual,Credit Card,Active,
+USR_0785,2025-11-29,Individual,Google Wallet,Active,
+USR_0786,2025-11-30,Student,Credit Card,Active,
+USR_0787,2025-11-30,Individual,Google Wallet,Active,
+USR_0788,2025-12-01,Individual,Google Wallet,Canceled,2026-02-12
+USR_0789,2025-12-01,Individual,Google Wallet,Active,
+USR_0790,2025-12-01,Student,Credit Card,Active,
+USR_0791,2025-12-02,Individual,Credit Card,Active,
+USR_0792,2025-12-02,Individual,PayPal,Active,
+USR_0793,2025-12-03,Individual,Google Wallet,Active,
+USR_0794,2025-12-03,Individual,PayPal,Active,
+USR_0795,2025-12-03,Individual,PayPal,Active,
+USR_0796,2025-12-04,Family,Credit Card,Active,
+USR_0797,2025-12-04,Student,Credit Card,Canceled,2026-05-26
+USR_0798,2025-12-05,Individual,PayPal,Canceled,2026-05-14
+USR_0799,2025-12-05,Individual,Google Wallet,Active,
+USR_0800,2025-12-06,Student,Credit Card,Active,
+USR_0801,2025-12-06,Family,Google Wallet,Active,
+USR_0802,2025-12-06,indivual_typo,Google Wallet,Active,
+USR_0803,2025-12-07,Individual,PayPal,Active,
+USR_0804,2025-12-07,Individual,PayPal,Active,
+USR_0805,2025-12-08,Individual,PayPal,Active,
+USR_0806,2025-12-08,Family,PayPal,Active,
+USR_0807,2025-12-09,Student,Credit Card,Active,
+USR_0808,2025-12-09,Student,Credit Card,Canceled,2026-01-23
+USR_0809,2025-12-09,Individual,PayPal,Canceled,2026-01-15
+USR_0810,2025-12-10,Individual,Credit Card,Active,
+USR_0811,2025-12-10,Student,PayPal,Active,
+USR_0812,2025-12-11,Family,Google Wallet,Canceled,2026-03-07
+USR_0813,2025-12-11,Individual,Google Wallet,Active,
+USR_0814,2025-12-12,Student,Google Wallet,Canceled,2026-05-20
+USR_0815,2025-12-12,Family,PayPal,Active,
+USR_0816,2025-12-12,Individual,Google Wallet,Canceled,2026-05-28
+USR_0817,2025-12-13,Individual,Credit Card,Active,
+USR_0818,2025-12-13,Individual,Google Wallet,Canceled,2026-05-30
+USR_0819,2025-12-14,Individual,Google Wallet,Canceled,2026-04-02
+USR_0820,2025-12-14,Individual,Google Wallet,Active,
+USR_0821,2025-12-15,Family,Credit Card,Active,
+USR_0822,2025-12-15,Individual,PayPal,Canceled,2026-06-02
+USR_0823,2025-12-15,Individual,Credit Card,Active,
+USR_0824,2025-12-16,Individual,PayPal,Canceled,2026-04-14
+USR_0825,2025-12-16,Individual,PayPal,Active,
+USR_0826,2025-12-17,Student,Google Wallet,Active,
+USR_0827,2025-12-17,Individual,PayPal,Active,
+USR_0828,2025-12-17,Individual,Credit Card,Active,
+USR_0829,2025-12-18,Family,Credit Card,Canceled,2026-05-24
+USR_0830,2025-12-18,Individual,PayPal,Active,
+USR_0831,2025-12-19,Individual,Google Wallet,Active,
+USR_0832,2025-12-19,Individual,Google Wallet,Active,
+USR_0833,2025-12-20,Individual,Credit Card,Active,
+USR_0834,2025-12-20,Individual,Google Wallet,Canceled,2026-06-16
+USR_0835,2025-12-20,Individual,PayPal,Canceled,2026-05-20
+USR_0836,2025-12-21,Individual,PayPal,Active,
+USR_0837,2025-12-21,Student,Credit Card,Canceled,2026-02-01
+USR_0838,2025-12-22,Individual,PayPal,Canceled,2026-04-30
+USR_0839,2025-12-22,Individual,Credit Card,Active,
+USR_0840,2025-12-23,Individual,PayPal,Canceled,2026-02-12
+USR_0841,2025-12-23,Individual,Credit Card,Active,
+USR_0842,2025-12-23,Individual,Google Wallet,Active,
+USR_0843,2025-12-24,Individual,PayPal,Canceled,2026-02-14
+USR_0844,2025-12-24,Student,PayPal,Active,
+USR_0845,2025-12-25,Individual,Credit Card,Canceled,2026-04-03
+USR_0846,2025-12-25,Individual,Credit Card,Canceled,2026-04-17
+USR_0847,2025-12-26,Individual,PayPal,Active,
+USR_0848,2025-12-26,Student,Credit Card,Canceled,2026-04-18
+USR_0849,2025-12-26,Individual,PayPal,Active,
+USR_0850,2025-12-27,Individual,Google Wallet,Active,
+USR_0851,2025-12-27,Individual,Credit Card,Active,
+USR_0852,2025-12-28,Family,PayPal,Canceled,2026-03-30
+USR_0853,2025-12-28,Individual,Google Wallet,Active,
+USR_0854,2025-12-29,Family,Google Wallet,Active,
+USR_0855,2025-12-29,Individual,PayPal,Active,
+USR_0856,2025-12-29,Individual,Credit Card,Active,
+USR_0857,2025-12-30,Individual,PayPal,Active,
+USR_0858,2025-12-30,Individual,Google Wallet,Active,
+USR_0859,2025-12-31,Individual,PayPal,Active,
+USR_0860,2025-12-31,Individual,Credit Card,Active,
+USR_0861,2026-01-01,Family,Google Wallet,Canceled,2026-05-30
+USR_0862,2026-01-01,Individual,PayPal,Active,
+USR_0863,2026-01-01,Individual,Credit Card,Active,
+USR_0864,2026-01-02,Individual,Google Wallet,Canceled,2026-03-28
+USR_0865,2026-01-02,Individual,Credit Card,Active,
+USR_0866,2026-01-03,Individual,Google Wallet,Canceled,2026-05-16
+USR_0867,2026-01-03,Individual,PayPal,Active,
+USR_0868,2026-01-03,Individual,Credit Card,Canceled,2026-06-27
+USR_0869,2026-01-04,Family,Google Wallet,Active,
+USR_0870,2026-01-04,Student,Credit Card,Active,
+USR_0871,2026-01-05,Individual,Credit Card,Active,
+USR_0872,2026-01-05,Individual,PayPal,Canceled,2026-06-08
+USR_0873,2026-01-06,Individual,Credit Card,Active,
+USR_0874,2026-01-06,Individual,Google Wallet,Active,
+USR_0875,2026-01-06,Individual,Google Wallet,Canceled,2026-02-24
+USR_0876,2026-01-07,Individual,Google Wallet,Canceled,2026-06-25
+USR_0877,2026-01-07,Family,Google Wallet,Active,
+USR_0878,2026-01-08,Individual,PayPal,Canceled,2026-03-09
+USR_0879,2026-01-08,Individual,Credit Card,Canceled,2026-05-08
+USR_0880,2026-01-09,Individual,PayPal,Active,
+USR_0881,2026-01-09,Individual,Credit Card,Active,
+USR_0882,2026-01-09,Individual,Credit Card,Active,
+USR_0883,2026-01-10,Individual,Credit Card,Active,
+USR_0884,2026-01-10,Individual,PayPal,Active,
+USR_0885,2026-01-11,Family,Credit Card,Active,
+USR_0886,2026-01-11,Individual,PayPal,Active,
+USR_0887,2026-01-12,Individual,Google Wallet,Active,
+USR_0888,2026-01-12,Individual,Google Wallet,Active,
+USR_0889,2026-01-12,Individual,Credit Card,Canceled,2026-07-09
+USR_0890,2026-01-13,Individual,PayPal,Canceled,2026-03-31
+USR_0891,2026-01-13,Family,Google Wallet,Active,
+USR_0892,2026-01-14,Family,PayPal,Canceled,2026-05-09
+USR_0893,2026-01-14,Family,PayPal,Active,
+USR_0894,2026-01-15,Individual,Credit Card,Active,
+USR_0895,2026-01-15,Individual,Google Wallet,Active,
+USR_0896,2026-01-15,Individual,Credit Card,Active,
+USR_0897,2026-01-16,Individual,Credit Card,Canceled,2026-05-10
+USR_0898,2026-01-16,Family,Google Wallet,Active,
+USR_0899,2026-01-17,indivual_typo,Google Wallet,Active,
+USR_0900,2026-01-17,Individual,PayPal,Active,
+USR_0901,2026-01-17,Individual,Google Wallet,Active,
+USR_0902,2026-01-18,Individual,PayPal,Active,
+USR_0903,2026-01-18,Individual,PayPal,Active,
+USR_0904,2026-01-19,Individual,PayPal,Active,
+USR_0905,2026-01-19,Individual,Google Wallet,Canceled,2026-06-24
+USR_0906,2026-01-20,indivual_typo,Credit Card,Canceled,2026-03-09
+USR_0907,2026-01-20,Family,PayPal,Active,
+USR_0908,2026-01-20,Individual,Credit Card,Canceled,2026-04-20
+USR_0909,2026-01-21,Individual,Credit Card,Active,
+USR_0910,2026-01-21,Individual,Google Wallet,Active,
+USR_0911,2026-01-22,Individual,Credit Card,Active,
+USR_0912,2026-01-22,Individual,Credit Card,Active,
+USR_0913,2026-01-23,Individual,Google Wallet,Canceled,2026-06-11
+USR_0914,2026-01-23,Individual,PayPal,Active,
+USR_0915,2026-01-23,Individual,Credit Card,Active,
+USR_0916,2026-01-24,Individual,Google Wallet,Active,
+USR_0917,2026-01-24,Individual,Credit Card,Active,
+USR_0918,2026-01-25,Student,Credit Card,Canceled,2026-07-22
+USR_0919,2026-01-25,Family,PayPal,Active,
+USR_0920,2026-01-26,Individual,Credit Card,Active,
+USR_0921,2026-01-26,Family,Google Wallet,Active,
+USR_0922,2026-01-26,Individual,Credit Card,Active,
+USR_0923,2026-01-27,Family,PayPal,Active,
+USR_0924,2026-01-27,Family,PayPal,Active,
+USR_0925,2026-01-28,Individual,Google Wallet,Active,
+USR_0926,2026-01-28,Individual,PayPal,Active,
+USR_0927,2026-01-29,Individual,Credit Card,Canceled,2026-04-23
+USR_0928,2026-01-29,indivual_typo,PayPal,Canceled,2026-06-27
+USR_0929,2026-01-29,Individual,Google Wallet,Active,
+USR_0930,2026-01-30,Individual,PayPal,Active,
+USR_0931,2026-01-30,Individual,PayPal,Active,
+USR_0932,2026-01-31,Family,PayPal,Canceled,2026-05-27
+USR_0933,2026-01-31,Student,Google Wallet,Active,
+USR_0934,2026-01-31,Individual,PayPal,Active,
+USR_0935,2026-02-01,Individual,PayPal,Active,
+USR_0936,2026-02-01,Individual,Credit Card,Active,
+USR_0937,2026-02-02,Individual,Google Wallet,Active,
+USR_0938,2026-02-02,Student,PayPal,Active,
+USR_0939,2026-02-03,Individual,Google Wallet,Active,
+USR_0940,2026-02-03,Individual,PayPal,Active,
+USR_0941,2026-02-03,Individual,PayPal,Active,
+USR_0942,2026-02-04,Individual,PayPal,Active,
+USR_0943,2026-02-04,Individual,Credit Card,Active,
+USR_0944,2026-02-05,Family,Credit Card,Active,
+USR_0945,2026-02-05,Individual,Credit Card,Active,
+USR_0946,2026-02-06,Individual,Google Wallet,Active,
+USR_0947,2026-02-06,Individual,Google Wallet,Canceled,2026-06-27
+USR_0948,2026-02-06,Student,Credit Card,Active,
+USR_0949,2026-02-07,Family,Google Wallet,Active,
+USR_0950,2026-02-07,Individual,PayPal,Active,
+USR_0951,2026-02-08,Individual,PayPal,Active,
+USR_0952,2026-02-08,Individual,PayPal,Active,
+USR_0953,2026-02-09,Individual,Credit Card,Active,
+USR_0954,2026-02-09,Student,Google Wallet,Active,
+USR_0955,2026-02-09,Individual,Credit Card,Canceled,2026-07-19
+USR_0956,2026-02-10,Individual,Google Wallet,Active,
+USR_0957,2026-02-10,Individual,PayPal,Canceled,2026-06-13
+USR_0958,2026-02-11,Individual,Credit Card,Canceled,2026-03-25
+USR_0959,2026-02-11,Individual,Google Wallet,Active,
+USR_0960,2026-02-12,Family,Google Wallet,Canceled,2026-04-19
+USR_0961,2026-02-12,Individual,PayPal,Active,
+USR_0962,2026-02-12,Individual,Credit Card,Canceled,2026-04-18
+USR_0963,2026-02-13,Individual,Credit Card,Active,
+USR_0964,2026-02-13,Individual,Credit Card,Active,
+USR_0965,2026-02-14,Individual,PayPal,Active,
+USR_0966,2026-02-14,Individual,Credit Card,Active,
+USR_0967,2026-02-14,Family,PayPal,Active,
+USR_0968,2026-02-15,Individual,PayPal,Active,
+USR_0969,2026-02-15,Individual,PayPal,Active,
+USR_0970,2026-02-16,Individual,Google Wallet,Active,
+USR_0971,2026-02-16,Individual,Credit Card,Active,
+USR_0972,2026-02-17,Student,Credit Card,Active,
+USR_0973,2026-02-17,Family,PayPal,Canceled,2026-06-10
+USR_0974,2026-02-17,Individual,PayPal,Canceled,2026-07-12
+USR_0975,2026-02-18,Individual,Credit Card,Canceled,2026-08-10
+USR_0976,2026-02-18,Individual,PayPal,Active,
+USR_0977,2026-02-19,Individual,Credit Card,Active,
+USR_0978,2026-02-19,Individual,Google Wallet,Active,
+USR_0979,2026-02-20,Individual,PayPal,Canceled,2026-06-17
+USR_0980,2026-02-20,Individual,Credit Card,Active,
+USR_0981,2026-02-20,Individual,PayPal,Active,
+USR_0982,2026-02-21,Family,Credit Card,Active,
+USR_0983,2026-02-21,Individual,Credit Card,Canceled,2026-05-18
+USR_0984,2026-02-22,Individual,PayPal,Active,
+USR_0985,2026-02-22,Family,Google Wallet,Active,
+USR_0986,2026-02-23,Individual,Credit Card,Active,
+USR_0987,2026-02-23,Individual,Credit Card,Active,
+USR_0988,2026-02-23,Individual,Credit Card,Active,
+USR_0989,2026-02-24,Individual,Google Wallet,Active,
+USR_0990,2026-02-24,Family,Google Wallet,Active,
+USR_0991,2026-02-25,Family,PayPal,Canceled,2026-07-23
+USR_0992,2026-02-25,Individual,Google Wallet,Active,
+USR_0993,2026-02-26,Individual,PayPal,Canceled,2026-04-13
+USR_0994,2026-02-26,Individual,PayPal,Canceled,2026-05-30
+USR_0995,2026-02-26,Individual,Google Wallet,Active,
+USR_0996,2026-02-27,Individual,PayPal,Active,
+USR_0997,2026-02-27,Student,Google Wallet,Active,
+USR_0998,2026-02-28,Individual,PayPal,Canceled,2026-04-09
+USR_0999,2026-02-28,Student,Google Wallet,Active,
+USR_1000,2026-03-01,Individual,Google Wallet,Active,

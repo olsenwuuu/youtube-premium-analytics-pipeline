@@ -1,0 +1,44 @@
+version: 2
+
+models:
+  - name: fct_streaming_summary
+    description: "Production data mart containing pre-aggregated daily user streaming metrics and historical retention states."
+    tests:
+      - unique:
+          column_name: "user_id || '-' || activity_date"
+
+    columns:
+      - name: user_id
+        description: "The identifier for each user."
+        tests:
+          - not_null
+
+      - name: activity_date
+        description: "The date of the streaming activity."
+
+      - name: device_type
+        description: "The type of device used for streaming (e.g., Mobile, Desktop, TV)."
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['Mobile', 'Desktop', 'TV']
+
+      - name: plan_type
+        description: "The subscription tier the user is assigned to."
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['Individual', 'Family', 'Student']
+
+      - name: account_status
+        description: "The current status of the user's account."
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['Active', 'Canceled']
+
+      - name: signup_date
+        description: "The date the user signed up for YouTube Premium."
+
+      - name: cancellation_date
+        description: "The date the user canceled their subscription, if applicable."
