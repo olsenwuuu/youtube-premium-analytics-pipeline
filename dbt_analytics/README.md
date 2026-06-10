@@ -50,3 +50,4 @@ Execute the ingestion notebooks to seed the SQLite warehouse:
 ```bash
 # Run database loading notebook to process raw JSON/CSV inputs
 # (Outputs: data/streaming_warehouse.db)
+jupyter nbconvert --to notebook --execute notebooks/02_database_loading.ipynb
