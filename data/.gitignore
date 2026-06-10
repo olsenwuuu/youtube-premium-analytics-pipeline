@@ -1,5 +1,4 @@
 # Exclude local dbt build directories
-dbt_analytics/target/
 dbt_analytics/dbt_packages/
 dbt_analytics/logs/
 
