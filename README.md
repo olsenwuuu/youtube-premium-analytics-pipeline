@@ -39,7 +39,7 @@ The pipeline is structured across a decoupled, modern data stack pattern:
 
 ## 🧪 Data Quality, Governance & Testing
 
-To ensure absolute pipeline reliability and protect downstream metrics, this project implements a strict data governance framework within dbt:
+To ensure pipeline reliability and protect downstream metrics, this project implements a strict data governance framework within dbt:
 
 * **Composite Key Uniqueness:** Enforces entity integrity on `fct_streaming_summary` by testing the true grain of the data model (`user_id` + `activity_date`), ensuring zero duplicate metric inflation.
 * **Categorical Constraints (`accepted_values`):** Hardens business definitions by validating that fields like `plan_type` (`Individual`, `Family`, `Student`) and `account_status` (`Active`, `Canceled`) never ingest corrupted or drifted variations.
