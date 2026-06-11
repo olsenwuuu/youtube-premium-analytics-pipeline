@@ -10,21 +10,20 @@ This project demonstrates how data architecture directly answers strategic busin
 
 The data pipeline and downstream analytical layers were engineered specifically to provide the business logic necessary to answer four critical product growth questions:
 
-1. **Subscription Value:** Are premium users getting enough value from their subscription?
+### 1. Subscription Value: Are premium users getting enough value?
 **Yes.** Active subscribers across all tiers maintain a steady average session length of **~50 minutes**. **Student plans** drive the highest platform engagement, averaging **50.5 minutes** per session, proving that the discounted tier attracts highly engaged, loyal users.
 
-2. **Daily Engagement Trends:** What are the daily streaming trends over time?
+### 2. Daily Engagement Trends: What are the streaming trends over time?
 **Highly Stable.** Platform consumption is utility-driven and flat across all seven days of the week. Individual plans consistently generate **~90k–93k minutes daily**, showing no major traffic drops or spikes between weekdays and weekends.
 
-3. **Hardware Preferences:** Which devices are preferred based on plan type?
+### 3. Hardware Preferences: Which devices are preferred based on plan type?
 **Mobile First.** Mobile is indisputably the dominant device type across all plans, handling more volume than Desktop and TV combined. The **Individual Tier on Mobile** is the primary engine of the platform, generating over **400,000 minutes** streamed.
 
-4. **Retention and Churn Risk:** Which subscriptions are stable and which are at risk of churn?
+### 4. Retention and Churn Risk: Which segment is stable and which is at risk?
 **Stable:** The **Individual plan** is the most stable segment, sustaining the lowest relative churn rate at **24.37%**. 
 **At Risk:** The **Student plan** exhibits the highest churn rate on the platform at **29.00%**, closely followed by the Family plan at **26.88%**.
 
 ---
-
 
 ## 🏗️ Architecture & Data Flow
 
